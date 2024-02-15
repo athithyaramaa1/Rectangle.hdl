@@ -13,7 +13,9 @@
  * the screen may show some output, the user may be expected to enter
  * some input using the keyboard, or the program may do some procerssing. 
  */
-CHIP Computer {
+
+//Coded Chip rectangle
+CHIP Rectangle {
 
     IN reset;
 
