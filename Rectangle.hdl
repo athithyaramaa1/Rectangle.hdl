@@ -13,7 +13,6 @@
  * the screen may show some output, the user may be expected to enter
  * some input using the keyboard, or the program may do some procerssing. 
  */
-/ Replace this comment with your code.
 CHIP Computer {
 
     IN reset;
